@@ -48,3 +48,22 @@ Engineered for deployment — not demonstration.
 GenAI Dynamics is expanding development of advanced AI and cybersecurity platforms for enterprise and high-impact applications.
 
 Strategic partnerships, aligned opportunities, and serious technical collaborations are always welcome.
+
+
+## GenAI Dynamics
+
+GenAI Dynamics is an advanced technology initiative focused on developing sovereign AI, autonomous intelligence platforms, and next-generation cybersecurity systems.
+
+Our development philosophy prioritizes real-world deployment, resilience, and modular architecture capable of scaling across enterprise and high-security environments.
+
+Current development areas include:
+- Autonomous AI orchestration
+- Intelligence & OSINT systems
+- Defensive cyber platforms
+- Decision-support AI
+- Advanced automation and analytics
+
+The long-term objective is to build deployable AI and cyber capabilities that operate reliably in demanding operational environments.
+
+For aligned opportunities, collaboration, or strategic discussions, engagement is welcomed.
+
