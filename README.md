@@ -1,35 +1,33 @@
 # Glenn Pendergrass
 ### Founder | Systems Architect | GenAI Dynamics
 
-Builder of advanced AI, cybersecurity, and autonomous intelligence systems engineered for real-world deployment.
+Architecting sovereign AI, cyber defense, and autonomous intelligence systems engineered for real-world deployment.
 
-I design sovereign AI infrastructure, multi-agent orchestration platforms, OSINT intelligence systems, and cyber defense tooling focused on resilience, autonomy, and operational capability.
-
-GenAI Dynamics exists to push beyond theory — building hardened, deployable systems that function in real environments under real constraints.
+I design and build advanced AI-driven platforms focused on resilience, autonomy, and operational capability — not theoretical demos.  
+All development under GenAI Dynamics centers on creating deployable systems capable of operating in demanding real environments.
 
 ---
 
 ## Core Focus Areas
-- Sovereign & local-first AI systems
-- Autonomous multi-agent orchestration
-- Cybersecurity & defensive/offensive tooling
-- OSINT & intelligence platforms
-- Decision-support AI systems
-- Resilient infrastructure engineering
+- Sovereign & local-first AI systems  
+- Autonomous multi-agent orchestration  
+- Cybersecurity & defensive/offensive tooling  
+- OSINT & intelligence platforms  
+- Decision-support AI systems  
+- Resilient infrastructure engineering  
 
 ---
 
-## Flagship Development
-**GenAI Dynamics / Ascension Ecosystem**
+## Flagship Development: Ascension Ecosystem
+GenAI Dynamics is developing a modular next-generation AI and cyber capability stack designed for enterprise, research, and national-security-aligned environments.
 
-A next-generation AI and cyber capability stack designed for enterprise, research, and national-security-aligned environments.
-
-Key components include:
-- Autonomous AI orchestration frameworks
-- Intelligence & OSINT platforms
-- Defensive cyber systems
-- Offensive testing and simulation tools
-- Modular sovereign AI infrastructure
+### Key Components
+- Autonomous AI orchestration frameworks  
+- Intelligence & OSINT analysis platforms  
+- Defensive cyber and monitoring systems  
+- Offensive testing and simulation tools  
+- Modular sovereign AI infrastructure  
+- Advanced automation and decision-support systems  
 
 Engineered for deployment — not demonstration.
 
@@ -44,26 +42,29 @@ Engineered for deployment — not demonstration.
 
 ---
 
-## Collaboration & Opportunities
-GenAI Dynamics is expanding development of advanced AI and cybersecurity platforms for enterprise and high-impact applications.
+## Active Development Areas
+- Multi-agent AI command systems  
+- Local sovereign AI infrastructure  
+- Cybersecurity and threat detection tooling  
+- Intelligence analysis and OSINT automation  
+- Autonomous decision-support platforms  
 
-Strategic partnerships, aligned opportunities, and serious technical collaborations are always welcome.
-
+---
 
 ## GenAI Dynamics
-
 GenAI Dynamics is an advanced technology initiative focused on developing sovereign AI, autonomous intelligence platforms, and next-generation cybersecurity systems.
 
-Our development philosophy prioritizes real-world deployment, resilience, and modular architecture capable of scaling across enterprise and high-security environments.
+The objective is to create hardened, deployable AI and cyber capabilities capable of operating across enterprise, research, and high-security environments.
 
-Current development areas include:
-- Autonomous AI orchestration
-- Intelligence & OSINT systems
-- Defensive cyber platforms
-- Decision-support AI
-- Advanced automation and analytics
+Development emphasizes:
+- Real-world functionality
+- Scalable architecture
+- Autonomous capability
+- Long-term strategic impact
 
-The long-term objective is to build deployable AI and cyber capabilities that operate reliably in demanding operational environments.
+---
 
-For aligned opportunities, collaboration, or strategic discussions, engagement is welcomed.
+## Collaboration & Strategic Opportunities
+GenAI Dynamics continues expanding development of advanced AI and cybersecurity platforms for enterprise and high-impact applications.
 
+Strategic partnerships, aligned opportunities, and serious technical collaborations are always welcome.
